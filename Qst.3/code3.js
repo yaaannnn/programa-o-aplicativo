@@ -4,7 +4,7 @@ let funcionarios = [];
 let folhatotal = 0;
 let mediasalarial = 0;
 
-for (let i = 1; i <= 2; i++){
+for (let i = 1; i <= 20; i++){
     let codigo = prompt(`Digite o código do ${i}° Funcionário: `)
     let salario = Number(prompt(`Digite o salario do ${i}° FUncionário: `));
     console.log("----------------------------------------------------------");

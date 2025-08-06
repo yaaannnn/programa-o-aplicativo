@@ -1,4 +1,5 @@
 const prompt = require("prompt-sync")();
+
 let pontos = 0;
 
 for (let contador = 1; contador <= 10; contador++){
